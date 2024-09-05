@@ -22,19 +22,19 @@
     "url": "https://doo.1hd.buzz",
     "icon": "https://icons.duckduckgo.com/ip3/doo.1hd.buzz.ico",
     "slug": "subdomains-server",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1048,
-    "timeDay": 1048,
-    "timeWeek": 1048,
-    "timeMonth": 1048,
-    "timeYear": 1048,
+    "status": "up",
+    "uptime": "88.72%",
+    "uptimeDay": "88.72%",
+    "uptimeWeek": "88.72%",
+    "uptimeMonth": "88.72%",
+    "uptimeYear": "88.72%",
+    "time": 1063,
+    "timeDay": 1063,
+    "timeWeek": 1063,
+    "timeMonth": 1063,
+    "timeYear": 1063,
     "dailyMinutesDown": {
-      "2024-09-05": 0
+      "2024-09-05": 45
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-05": 355
+      "2024-09-05": 400
     }
   }
 ]
