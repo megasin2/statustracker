@@ -13,6 +13,9 @@ sites:
     url: https://fast.1hd.buzz
   - name: Braflix Server -VRC
     url: https://braflix.1hd.buzz
+  - name: StreamHD Server -VRC
+    url: https://stream.1hd.buzz/
+    
     port: 80
     check: "tcp-ping"
     ipv6: true
