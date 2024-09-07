@@ -22,19 +22,19 @@
     "url": "https://doo.1hd.buzz",
     "icon": "https://icons.duckduckgo.com/ip3/doo.1hd.buzz.ico",
     "slug": "testing-environment-doo",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1138,
-    "timeDay": 939,
-    "timeWeek": 1138,
-    "timeMonth": 1138,
-    "timeYear": 1138,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 1110,
+    "timeDay": 941,
+    "timeWeek": 1110,
+    "timeMonth": 1110,
+    "timeYear": 1110,
     "dailyMinutesDown": {
-      "2024-09-07": 0
+      "2024-09-07": 12
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 224,
+      "2024-09-07": 236,
       "2024-09-06": 1440,
       "2024-09-05": 292
     }
@@ -83,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/braflix.1hd.buzz.ico",
     "slug": "braflix-server-vrc",
     "status": "up",
-    "uptime": "68.17%",
-    "uptimeDay": "92.59%",
-    "uptimeWeek": "68.17%",
-    "uptimeMonth": "68.17%",
-    "uptimeYear": "68.17%",
+    "uptime": "68.36%",
+    "uptimeDay": "93.40%",
+    "uptimeWeek": "68.36%",
+    "uptimeMonth": "68.36%",
+    "uptimeYear": "68.36%",
     "time": 714,
     "timeDay": 714,
     "timeWeek": 714,
@@ -115,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 224,
+      "2024-09-07": 236,
       "2024-09-06": 1109
     }
   }
