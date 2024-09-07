@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 977,
-    "timeDay": 1068,
+    "timeDay": 1298,
     "timeWeek": 977,
     "timeMonth": 977,
     "timeYear": 977,
@@ -22,19 +22,19 @@
     "url": "https://doo.1hd.buzz",
     "icon": "https://icons.duckduckgo.com/ip3/doo.1hd.buzz.ico",
     "slug": "testing-environment-doo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1086,
-    "timeDay": 935,
-    "timeWeek": 1086,
-    "timeMonth": 1086,
-    "timeYear": 1086,
+    "status": "up",
+    "uptime": "98.41%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.41%",
+    "time": 1073,
+    "timeDay": 950,
+    "timeWeek": 1073,
+    "timeMonth": 1073,
+    "timeYear": 1073,
     "dailyMinutesDown": {
-      "2024-09-07": 0
+      "2024-09-07": 33
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 299,
+      "2024-09-07": 332,
       "2024-09-06": 1440,
       "2024-09-05": 292
     }
@@ -71,7 +71,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 179,
+    "timeDay": 286,
     "timeWeek": 211,
     "timeMonth": 211,
     "timeYear": 211,
@@ -83,13 +83,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/braflix.1hd.buzz.ico",
     "slug": "braflix-server-vrc",
     "status": "up",
-    "uptime": "69.34%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "69.34%",
-    "uptimeMonth": "69.34%",
-    "uptimeYear": "69.34%",
+    "uptime": "69.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "69.83%",
+    "uptimeMonth": "69.83%",
+    "uptimeYear": "69.83%",
     "time": 714,
-    "timeDay": 714,
+    "timeDay": 712,
     "timeWeek": 714,
     "timeMonth": 714,
     "timeYear": 714,
@@ -115,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 299,
+      "2024-09-07": 332,
       "2024-09-06": 1109
     }
   }
