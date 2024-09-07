@@ -8,14 +8,21 @@ sites:
   - name: testing environment -doo
     url: https://doo.1hd.buzz
   - name: Subdomains 2 eu.org
-    url: https://bollyfree.eu.org
+    url: https://BOLLYMOVIE2.EU.ORG
+    - name: Subdomains 3 eu.org
+    url: https://bollyhdmovie.eu.org
   - name: FastHD Server -VRC
     url: https://fast.1hd.buzz
   - name: Braflix Server -VRC
     url: https://braflix.1hd.buzz
   - name: StreamHD Server -VRC
     url: https://stream.1hd.buzz/
-    
+  - name: Watch Server -VRC
+    url: https://watch.1hd.buzz/
+  - name: Play Server -VRC
+    url: https://play.1hd.buzz/
+    - name: Status Server -VRC
+    url: https://status.1hd.buzz/
     port: 80
     check: "tcp-ping"
     ipv6: true
