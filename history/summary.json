@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/doo.1hd.buzz.ico",
     "slug": "testing-environment-doo",
     "status": "up",
-    "uptime": "98.54%",
+    "uptime": "98.59%",
     "uptimeDay": "96.95%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.54%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "98.59%",
     "time": 1050,
     "timeDay": 930,
     "timeWeek": 1050,
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 639,
+      "2024-09-09": 831,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 639,
+      "2024-09-09": 831,
       "2024-09-08": 1440,
       "2024-09-07": 1032
     }
@@ -108,11 +108,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/braflix.1hd.buzz.ico",
     "slug": "braflix-server-vrc",
     "status": "up",
-    "uptime": "88.14%",
+    "uptime": "88.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.14%",
-    "uptimeMonth": "88.14%",
-    "uptimeYear": "88.14%",
+    "uptimeWeek": "88.56%",
+    "uptimeMonth": "88.56%",
+    "uptimeYear": "88.56%",
     "time": 582,
     "timeDay": 365,
     "timeWeek": 582,
@@ -129,11 +129,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stream.1hd.buzz.ico",
     "slug": "stream-hd-server-vrc",
     "status": "up",
-    "uptime": "67.22%",
+    "uptime": "68.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.22%",
-    "uptimeMonth": "67.22%",
-    "uptimeYear": "67.22%",
+    "uptimeWeek": "68.52%",
+    "uptimeMonth": "68.52%",
+    "uptimeYear": "68.52%",
     "time": 186,
     "timeDay": 277,
     "timeWeek": 186,
@@ -167,9 +167,9 @@
     "url": "https://play.1hd.buzz",
     "icon": "https://icons.duckduckgo.com/ip3/play.1hd.buzz.ico",
     "slug": "play-server-vrc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -178,7 +178,9 @@
     "timeWeek": 957,
     "timeMonth": 957,
     "timeYear": 957,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-09": 0
+    }
   },
   {
     "name": "Status Server -VRC",
@@ -197,7 +199,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 639,
+      "2024-09-09": 831,
       "2024-09-08": 1440,
       "2024-09-07": 1032
     }
