@@ -7,10 +7,6 @@ sites:
     url: https://1hd.buzz
   - name: testing environment -doo
     url: https://doo.1hd.buzz
-  - name: Subdomains 2 eu.org
-    url: https://bollymovie2.eu.org
-  - name: Subdomains 3 eu.org
-    url: https://bollyhdmovie.eu.org
   - name: FastHD Server -VRC
     url: https://fast.1hd.buzz
   - name: Braflix Server -VRC
@@ -19,9 +15,11 @@ sites:
     url: https://stream.1hd.buzz
   - name: Watch Server -VRC
     url: https://watch.1hd.buzz
-  - name: Play Server -VRC
+  - name: Play Server -Dir
     url: https://play.1hd.buzz
-  - name: Status Server -VRC
+  - name: Moviebox-Server VRC
+    url: https://moviebox.sbs
+  - name: Status Server -Github
     url: https://status.1hd.buzz
     port: 80
     check: "tcp-ping"
@@ -35,7 +33,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 1hd Status Page
   introTitle: "**1HD.buzz** Status Updates."
-  introMessage: This is a  status page which uses **real-time** data from our Servers. including doo,1hdmain,braflix,fasthd, quick stream server
+  introMessage: This is a  status page which uses **real-time** data from our Servers.
   navbar:
     - title: Status
       href: /
