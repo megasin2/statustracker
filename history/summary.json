@@ -4,19 +4,19 @@
     "url": "https://1hd.buzz",
     "icon": "https://icons.duckduckgo.com/ip3/1hd.buzz.ico",
     "slug": "primary-server-1hd-buzz",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 842,
-    "timeDay": 933,
-    "timeWeek": 775,
-    "timeMonth": 842,
-    "timeYear": 842,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 868,
+    "timeDay": 1044,
+    "timeWeek": 824,
+    "timeMonth": 868,
+    "timeYear": 868,
     "dailyMinutesDown": {
-      "2024-09-14": 27
+      "2024-09-14": 37
     }
   },
   {
@@ -86,11 +86,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stream.1hd.buzz.ico",
     "slug": "stream-hd-server-vrc",
     "status": "up",
-    "uptime": "87.84%",
+    "uptime": "87.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.84%",
-    "uptimeYear": "87.84%",
+    "uptimeMonth": "87.85%",
+    "uptimeYear": "87.85%",
     "time": 229,
     "timeDay": 490,
     "timeWeek": 232,
@@ -142,19 +142,19 @@
     "url": "https://moviebox.sbs",
     "icon": "https://icons.duckduckgo.com/ip3/moviebox.sbs.ico",
     "slug": "moviebox-server-vrc",
-    "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
-    "time": 294,
-    "timeDay": 372,
-    "timeWeek": 294,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "status": "up",
+    "uptime": "98.86%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.86%",
+    "time": 360,
+    "timeDay": 457,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {
-      "2024-09-14": 24
+      "2024-09-14": 35
     }
   },
   {
@@ -174,7 +174,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 1289,
+      "2024-09-14": 1300,
       "2024-09-13": 1440,
       "2024-09-12": 268
     }
