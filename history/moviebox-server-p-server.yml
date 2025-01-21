@@ -1,7 +1,7 @@
 url: https://moviebox.sbs
-status: up
-code: 200
-responseTime: 100
-lastUpdated: 2025-01-20T23:07:48.518Z
+status: down
+code: 526
+responseTime: 241
+lastUpdated: 2025-01-21T02:59:25.820Z
 startTime: 2024-10-06T06:08:43.263Z
 generator: Upptime <https://github.com/upptime/upptime>
