@@ -24,16 +24,16 @@
     "url": "https://moviebox.sbs",
     "icon": "https://icons.duckduckgo.com/ip3/moviebox.sbs.ico",
     "slug": "moviebox-server-p-server",
-    "status": "up",
+    "status": "down",
     "uptime": "97.37%",
-    "uptimeDay": "98.52%",
+    "uptimeDay": "98.51%",
     "uptimeWeek": "97.79%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "97.37%",
     "time": 258,
-    "timeDay": 155,
-    "timeWeek": 221,
-    "timeMonth": 275,
+    "timeDay": 188,
+    "timeWeek": 224,
+    "timeMonth": 277,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2025-04-14": 21,
@@ -49,7 +49,7 @@
       "2025-01-30": 1124,
       "2025-01-29": 1075,
       "2025-01-28": 899,
-      "2025-01-27": 111
+      "2025-01-27": 87
     }
   },
   {
@@ -69,7 +69,7 @@
     "timeMonth": 235,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-04-14": 1033,
+      "2025-04-14": 1053,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -276,7 +276,7 @@
     "timeMonth": 165,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-04-14": 1033,
+      "2025-04-14": 1053,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -485,7 +485,7 @@
     "timeMonth": 207,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-04-14": 1033,
+      "2025-04-14": 1053,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -694,7 +694,7 @@
     "timeMonth": 165,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2025-04-14": 1034,
+      "2025-04-14": 1053,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -890,11 +890,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.1hd.buzz.ico",
     "slug": "play-server-cc-vid",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.44%",
     "uptimeMonth": "98.44%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 1731,
     "timeDay": 769,
     "timeWeek": 789,
