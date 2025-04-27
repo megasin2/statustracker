@@ -25,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/moviebox.sbs.ico",
     "slug": "moviebox-server-p-server",
     "status": "up",
-    "uptime": "98.19%",
-    "uptimeDay": "69.81%",
+    "uptime": "98.22%",
+    "uptimeDay": "71.15%",
     "uptimeWeek": "76.38%",
     "uptimeMonth": "92.32%",
-    "uptimeYear": "98.19%",
+    "uptimeYear": "98.22%",
     "time": 263,
-    "timeDay": 230,
-    "timeWeek": 296,
+    "timeDay": 225,
+    "timeWeek": 295,
     "timeMonth": 284,
     "timeYear": 263,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
       "2025-04-08": 64,
       "2025-02-04": 241,
       "2025-02-03": 855,
-      "2025-02-02": 844
+      "2025-02-02": 771
     }
   },
   {
@@ -73,7 +73,7 @@
     "timeMonth": 210,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-04-27": 1166,
+      "2025-04-27": 1232,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
@@ -282,18 +282,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/braflix.1hd.buzz.ico",
     "slug": "braflix-server-vrc",
     "status": "down",
-    "uptime": "14.02%",
+    "uptime": "14.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.02%",
+    "uptimeYear": "14.01%",
     "time": 284,
     "timeDay": 570,
     "timeWeek": 203,
     "timeMonth": 198,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-04-27": 1166,
+      "2025-04-27": 1232,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
@@ -515,7 +515,7 @@
     "timeMonth": 199,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-04-27": 1166,
+      "2025-04-27": 1232,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
@@ -737,7 +737,7 @@
     "timeMonth": 139,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2025-04-27": 1166,
+      "2025-04-27": 1232,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
