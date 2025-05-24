@@ -24,15 +24,15 @@
     "url": "https://moviebox.sbs",
     "icon": "https://icons.duckduckgo.com/ip3/moviebox.sbs.ico",
     "slug": "moviebox-server-p-server",
-    "status": "up",
-    "uptime": "97.82%",
+    "status": "down",
+    "uptime": "97.84%",
     "uptimeDay": "32.51%",
-    "uptimeWeek": "36.99%",
-    "uptimeMonth": "83.49%",
-    "uptimeYear": "97.82%",
+    "uptimeWeek": "37.11%",
+    "uptimeMonth": "83.63%",
+    "uptimeYear": "97.84%",
     "time": 269,
-    "timeDay": 273,
-    "timeWeek": 270,
+    "timeDay": 262,
+    "timeWeek": 269,
     "timeMonth": 276,
     "timeYear": 269,
     "dailyMinutesDown": {
@@ -44,7 +44,7 @@
       "2025-05-19": 846,
       "2025-05-18": 386,
       "2025-05-17": 599,
-      "2025-05-16": 333
+      "2025-05-16": 269
     }
   },
   {
@@ -64,7 +64,7 @@
     "timeMonth": 213,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-05-24": 1291,
+      "2025-05-24": 1303,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -311,7 +311,7 @@
     "timeMonth": 202,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-05-24": 1291,
+      "2025-05-24": 1303,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -560,7 +560,7 @@
     "timeMonth": 207,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-05-24": 1291,
+      "2025-05-24": 1303,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -809,7 +809,7 @@
     "timeMonth": 160,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2025-05-24": 1291,
+      "2025-05-24": 1303,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
